@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/vlad1slove1/codewars_collection/issues"
   },
-  "homepage": "https://github.com/vlad1slove1/codewars_collection#readme"
+  "homepage": "https://github.com/vlad1slove1/codewars_collection#readme",
+  "devDependencies": {
+    "eslint": "^8.5.0"
+  }
 }
