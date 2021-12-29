@@ -1,0 +1,24 @@
+{
+  "name": "codewars_collection",
+  "version": "1.0.0",
+  "description": "save and execute katas from codewars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlad1slove1/codewars_collection.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Codewars",
+    "Kata"
+  ],
+  "author": "Vladislav Kishchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlad1slove1/codewars_collection/issues"
+  },
+  "homepage": "https://github.com/vlad1slove1/codewars_collection#readme"
+}
